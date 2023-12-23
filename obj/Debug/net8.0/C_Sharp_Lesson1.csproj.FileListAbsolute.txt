@@ -1,0 +1,14 @@
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\bin\Debug\net8.0\C_Sharp_Lesson1.exe
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\bin\Debug\net8.0\C_Sharp_Lesson1.deps.json
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\bin\Debug\net8.0\C_Sharp_Lesson1.runtimeconfig.json
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\bin\Debug\net8.0\C_Sharp_Lesson1.dll
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\bin\Debug\net8.0\C_Sharp_Lesson1.pdb
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.AssemblyInfoInputs.cache
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.AssemblyInfo.cs
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.csproj.CoreCompileInputs.cache
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.dll
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\refint\C_Sharp_Lesson1.dll
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.pdb
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\C_Sharp_Lesson1.genruntimeconfig.cache
+C:\Users\Asset\Desktop\Аргын\GEEKBRAINS\C_Sharp_Lesson1\obj\Debug\net8.0\ref\C_Sharp_Lesson1.dll
